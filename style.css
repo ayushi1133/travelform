@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+.container{
+    max-width: 80;
+    background-color: rgb(158, 96, 158);
+
+    padding: 34px;
+    margin: auto;  /*for center allign of div*/
+    
+
+}
+
+.container h3{
+    text-align: center;
+}
+
+.container p{
+    text-align: center;
+}
+
+input{
+    width: 80%;
+    margin: 20px;
+    
+    border: 2px solid black;
+
+}
+
+
+
+   button{
+       width: 70px;
+       margin: 20px;
+
+       border: 2px solid black;
+   } 
+   
+.btn{
+    background-color: rgb(80, 123, 180);
+}
+    

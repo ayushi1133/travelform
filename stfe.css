@@ -1,0 +1,25 @@
+body{
+    background-color: salmon;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    color: #ffce14;
+    background: #0f2453;
+  }
+
+
+  .cont{
+
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+
+
+
+
